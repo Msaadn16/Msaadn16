@@ -2,12 +2,12 @@
 Hey there! Muhammad Saad here who is a Data Science enthusiast based in Lahore, Pakistan.
 I am committed to making my transition from being a service engineer to a Data scientist possible by learning and solving data mysteries using multiple skills and tools
 ## Skills
-Data Analysis using Excel and Python
-Data Visualization using Power BI, Excel, Python (Matpotlib)
-Data Cleaning and Pre-Processing using Excel, Python, SQL, Power Query
-Machine Learning / EDA Analysis
-SQL
-Statistical Analysis
+- Data Analysis using Excel and Python
+- Data Visualization using Power BI, Excel, Python (Matpotlib)
+- Data Cleaning and Pre-Processing using Excel, Python, SQL, Power Query
+- Machine Learning / EDA Analysis
+- SQL
+- Statistical Analysis
 
 ## Projects
 Empowering Punjab Education
